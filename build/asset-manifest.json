@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.101ecae0.chunk.css",
+    "main.js": "/static/js/main.d428bac5.chunk.js",
+    "main.js.map": "/static/js/main.d428bac5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.59e73e23.js",
+    "runtime-main.js.map": "/static/js/runtime-main.59e73e23.js.map",
+    "static/js/2.ec31a933.chunk.js": "/static/js/2.ec31a933.chunk.js",
+    "static/js/2.ec31a933.chunk.js.map": "/static/js/2.ec31a933.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.739e15e23471c1635709fc47ec81f169.js": "/precache-manifest.739e15e23471c1635709fc47ec81f169.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.101ecae0.chunk.css.map": "/static/css/main.101ecae0.chunk.css.map",
+    "static/js/2.ec31a933.chunk.js.LICENSE.txt": "/static/js/2.ec31a933.chunk.js.LICENSE.txt",
+    "static/media/falll.svg": "/static/media/falll.23d1014d.svg",
+    "static/media/favicon.ico": "/static/media/favicon.d41d8cd9.ico",
+    "static/media/github.svg": "/static/media/github.5d6967cb.svg",
+    "static/media/landingimage.svg": "/static/media/landingimage.c7b23531.svg",
+    "static/media/map1.svg": "/static/media/map1.d3db73a5.svg",
+    "static/media/map2.svg": "/static/media/map2.9995acc3.svg",
+    "static/media/medical.svg": "/static/media/medical.db496bfb.svg",
+    "static/media/moon.svg": "/static/media/moon.98ac656e.svg",
+    "static/media/rlpBackground.svg": "/static/media/rlpBackground.b8113e40.svg",
+    "static/media/fonts.css": "/static/media/roboto-v18-latin-regular.bafb105b.woff",
+    "static/media/stackoverflow.svg": "/static/media/stackoverflow.882e4d21.svg",
+    "static/media/sun.svg": "/static/media/sun.2a5a3b47.svg",
+    "static/media/telegram.svg": "/static/media/telegram.d6571634.svg",
+    "static/media/twitter.svg": "/static/media/twitter.c87b2aef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59e73e23.js",
+    "static/js/2.ec31a933.chunk.js",
+    "static/css/main.101ecae0.chunk.css",
+    "static/js/main.d428bac5.chunk.js"
+  ]
+}
