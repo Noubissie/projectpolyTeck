@@ -1,0 +1,6 @@
+export const HEADER_PRIMARY_COLOR = "green"
+export const PRIMARY_COLOR = "#E0E2E6" 
+export const SECONDARY_COLOR = "#5e5c5c"
+export const ACCENT_COLOR_1 = ""
+export const ACCENT_COLOR_2 = ""
+export const ACCENT_COLOR_3 = ""
